@@ -2,7 +2,7 @@ Natural Language Processing (NLP) with Hugging Face Transformers
 
 Author : Cognitive Class AI
 
-Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Natural Language Processing (NLP) with Hugging Face Transformers from CognitiveClass.ai
 
 Mentee Info :
 
@@ -14,7 +14,7 @@ Tech Stack:
 - Natural Language Procesing (NLP)
 - Transformer Model
 - Use Hugging Face Transformers to do:
-  1. Sentiment Analysis - Identifies the polarity of a given text. 
+1. Sentiment Analysis - Identifies the polarity of a given text. 
   2. Topic Classification - Classifies sequences into specified class names.
   3. Text Generation - Predicting a next word in a sentence, given some previous input.
   4. Name Entity Recognition (NER) - Identifying and categorizing key information (entities) in text.
